@@ -1,4 +1,4 @@
-(defproject cc.qbits/quiver "1.0.0"
+(defproject cc.qbits/quiver "0.1.0"
   :description "Clojure 1.5 new threading macros as a library"
   :url "https://github.com/mpenet/quiver"
   :license {:name "Eclipse Public License"
